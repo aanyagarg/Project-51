@@ -1,0 +1,31 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+.body{
+    background-color: whitesmoke;
+}
+.origami {
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: white;
+    
+    width:350px;
+    font-family: cursive;
+}
+.grid{
+   
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+.grid img{
+    order: solid 5px black;
+    border-radius: 50px;
+}
